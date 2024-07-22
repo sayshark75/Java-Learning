@@ -7,7 +7,7 @@
 - Object class (Top Level Class)
 - Using Super keyword to access near ancestor class
 - Casting Different classes and its child classes
-- Dynamic Polymorphism (method overriding)
+- Non-Static Polymorphism (method overriding)
 - Static Polymorphism (method overloading)
 - extending different classes using Is-A relation (Inheritance), types of Class based Inheritance
 - extending different classes using Has-A relation.
