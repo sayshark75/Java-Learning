@@ -17,6 +17,11 @@ package Polymorphism;
 public class Parent  {
     int age = 40;
     static String name="Parent";
+    
+    // Default constructor with no body
+    // compiler provides default constructor, if there is no Constructor
+    // Parent(){}
+    
     void introduce(){
         System.out.println("I am "+name+" and my age is "+age);
     }
