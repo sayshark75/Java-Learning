@@ -1,12 +1,13 @@
 # Java Learning
 
-- VarArgs (Reduce static method overloading), Enums (Constant variables and References )
+- Encapsulation, Bean Classes, Getters and Setters.
+- VarArgs (Reduce static method overloading), Enums (Constant variables and References)
 - Interfaces, (100% abstraction), default keyword, static interface methods.
 - Arrays, MultiDimentional Arrays, using arrays in Methods as params or return type
 - Input taking using Scanner class
 - Object class (Top Level Class)
 - Using Super keyword to access near ancestor class
-- Casting Different classes and its child classes
+- Casting Different classes and its child classes, Upcasting, Downcasting, its usecases in methods
 - Non-Static Polymorphism (method overriding)
 - Static Polymorphism (method overloading)
 - extending different classes using Is-A relation (Inheritance), types of Class based Inheritance
