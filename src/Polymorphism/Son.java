@@ -8,6 +8,9 @@ package Polymorphism;
 public class Son extends Parent {
     int age = 20;
     static String name="SonOne";
+    static void test() {
+    	System.out.println("Food taste is good");
+    }
     void introduce(){
         System.out.println("I am "+name+" and my age is "+age);
     }
@@ -53,6 +56,17 @@ public class Son extends Parent {
         // Super keyword not be used in static context, this main is static method
         // the newEat is a non-static method
         s.newEat();
+        // we can also call parent methods, untill its not private
+        s.eat("chocolet");
+        
+        // if the object is null and reference is some class assigned
+        // still we can access static methods and variables from it
+        // from the reference assigned
+        Son b = null;
+        System.out.println(b.name);
+        b.test();
+        // it will not give compile time error, It will be NPException for age
+        // System.out.println(b.age);
     }
     // *************************************************/
 }

@@ -1,4 +1,4 @@
-package AbstractClasses;
+package Encapsulations;
 
 // Beans class: its a class which is used for Encapsulation
 // the class is public, its members are private, and getter-setters are
@@ -41,5 +41,12 @@ public class EncapsulatedClass {
 	public void setMarks(int marks) {
 		this.marks = marks;
 	}
+
+	@Override
+	public String toString() {
+		return "EncapsulatedClass [roll=" + roll + ", name=" + name + ", marks=" + marks + "]";
+	}
+	
+	
 
 }
