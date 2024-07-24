@@ -1,5 +1,6 @@
 package Polymorphism;
 // *************************************************/
+// Dynamic Polymorphism (Runtime Polymorphism)
 // Method Overriding: if a subclass or child class or slave class
 // which implements or declares same method from its Super Class or Parent class or Master class
 // with the same name and different method definition or body
@@ -23,7 +24,7 @@ public class Son extends Parent {
     //     }
 
     // *************************************************/
-    // Method overriding
+    // Method overriding or Dynamic Polymorphism
 
     // the @Override keyword is used to make sure that the name we are using is
     // properly matching with the name of the parent class method

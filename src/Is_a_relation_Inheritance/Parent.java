@@ -1,7 +1,17 @@
 package Is_a_relation_Inheritance;
 
 // *************************************************/
-// Inheritance is used to access all static and non-static members of a class
+// Inheritance is used to access all non-static members of a class.
+
+// Types of Inheritance
+//Class based Inheritances
+// 1 - Single Inheritance
+// 2 - MultiLevel Inheritance
+// 3 - Hierarchical Inheritance
+//Interface or Abstract level inheritances
+// 4 - Multiple inheritance
+// 5 - Hybrid Inheritance (Mixed Inheritance)
+
 // we inherit the class using extends keyword, as shown below
 public class Parent extends GrandParent {
     // *************************************************/

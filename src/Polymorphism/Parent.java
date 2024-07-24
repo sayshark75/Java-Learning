@@ -1,18 +1,9 @@
 package Polymorphism;
 
 // *************************************************/
-// Static Polymorphism is called method overloading
+// Static Polymorphism (Compile time Ploymorphism) is called method overloading
 // in which static or non-static methods are declared with same name and
 // different parameters WITHIN THE CLASS, the return type is not matters.
-
-// Types of Inheritance
-// Class based Inheritances
-    // 1 - Single Inheritance
-    // 2 - MultiLevel Inheritance
-    // 3 - Hierarchical Inheritance
-// Interface or Abstract level inheritances
-    // 4 - Multiple inheritance
-    // 5 - Hybrid Inheritance (Mixed Inheritance)
 
 public class Parent  {
     int age = 40;
