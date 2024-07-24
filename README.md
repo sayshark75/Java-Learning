@@ -1,5 +1,6 @@
 # Java Learning
 
+- Abstraction, abstract methods, abstract classes, contract for child classes, Indirect Instantiation. 
 - Encapsulation, Bean Classes, Getters and Setters.
 - VarArgs (Reduce static method overloading), Enums (Constant variables and References)
 - Interfaces, (100% abstraction), default keyword, static interface methods.
