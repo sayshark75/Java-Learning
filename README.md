@@ -13,6 +13,12 @@
 - Static Polymorphism (method overloading)
 - extending different classes using Is-A relation (Inheritance), types of Class based Inheritance
 - extending different classes using Has-A relation.
+- Instantiation, method hiding, deep learning of the object creation
 - Class, Its variabels, methods, scopes, static members, non-static members, instances, main method
 - Conditional Statements, Loops.
-- Variables, Datatypes, Allocations, Class Pool, Strings Pool, Variable casting. 
+- Variables, Datatypes, Allocations, Class Pool, Strings Pool, Variable casting.
+
+## Object Creation diagram and flow
+![Object Flow with Inheritance](https://github.com/user-attachments/assets/90fc16bc-557e-4303-a203-27ec357e915a)
+
+![process](https://github.com/user-attachments/assets/4623109d-4e74-446f-804b-cf666c86a845)
