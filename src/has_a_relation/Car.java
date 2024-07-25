@@ -18,6 +18,10 @@ public class Car {
     }
 
     public static void main(String[] args) {
+    	// static members can be accessed using objects also
+    	// but static member of a class does not belongs to the object
+    	// also we cannot override the static members
+    	
         System.out.println("Inside Car Class");
 
         // access static members of Engine class
