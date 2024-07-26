@@ -1,4 +1,4 @@
-package Interfaces_Enum;
+package Enums;
 
 public class EnumClass {
     // we can create enum in the same class as well

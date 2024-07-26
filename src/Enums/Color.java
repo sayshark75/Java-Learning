@@ -1,4 +1,4 @@
-package Interfaces_Enum;
+package Enums;
 
 // to create some constant values, we use Enums
 // we can separately create it and use it in different classes

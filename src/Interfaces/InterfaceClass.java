@@ -1,4 +1,4 @@
-package Interfaces_Enum;
+package Interfaces;
 
 // in Java there are 3 valid structures
 

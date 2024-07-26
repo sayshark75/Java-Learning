@@ -1,4 +1,4 @@
-package Interfaces_Enum;
+package VarArgs;
 
 // this varAgrs concept allow us to take zero or multiple arguments, as an array list
 // this help prevent method overloading issue where we have to create a method who can
