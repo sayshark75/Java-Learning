@@ -1,5 +1,7 @@
 # Java Learning
 
+- Access modifiers => Default, Public, Private, Protected
+- Bindings => Early Binding and Late Binding
 - Abstraction, abstract methods, abstract classes, contract for child classes, Indirect Instantiation. 
 - Encapsulation, Bean Classes, Getters and Setters.
 - VarArgs (Reduce static method overloading), Enums (Constant variables and References)
