@@ -1,5 +1,8 @@
 package Interfaces;
-// It is a Full Unimplemented structure in Java
+// Interface is Blueprint of class and class is Blueprint of Object
+
+// It is a Full Unimplemented structure in Java, 
+// Is-A Relation is there
 // an Interface contains only abstract methods (methods without body) 
 // and constant variables (public static final)
 // till jdk 1.7, interfaces use to contains only abstract methods and final variables

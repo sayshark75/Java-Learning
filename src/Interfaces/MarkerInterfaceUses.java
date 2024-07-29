@@ -4,7 +4,7 @@ public class MarkerInterfaceUses implements EmptyInterface {
 	
 	public void funA(EmptyInterface e) {
 		if(e != null) {
-			System.out.println("Here we using MarkerInterfaceUses class with EmptyInterface implementation");
+			System.out.println("Here we using MarkerInterfaceUses class with  EmptyInterface implementation");
 			System.out.println("Only EmptyInterface Implementation type is allowed to call this method");
 		}else {
 			System.out.println("Null values not allowed");
