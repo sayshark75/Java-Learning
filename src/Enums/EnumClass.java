@@ -1,15 +1,17 @@
 package Enums;
 
 public class EnumClass {
+	// with the help of enum we can create our own dataType (enumerated data type)
     // we can create enum in the same class as well
     // the text casing doesn't matter. just a rule to follow "Full Capital"
     // MyColor will be accessible to other classes as it is Public by default
+	
     enum MyColor  {
         Blue, VioLet, Purple, GrEen
     }
     public static void main(String[] args) {
         // sometimes we use String to do this things
-        String x = "Green";
+        String x = "Green"; 
         // but people maybe insert some wrong values
         String y = "bluee";
         // to prevent such behaviour, we use Enums

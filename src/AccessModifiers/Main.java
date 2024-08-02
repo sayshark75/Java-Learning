@@ -7,7 +7,7 @@ package AccessModifiers;
 // 2 - Public : Accessibility is Global (an access in any class or packages)
 // 3 - Private : Accessibility restricted to that class only
 // 4 - Protected : It is similar to Default, but outside the package 
-//                 we can access by using Inheritance 
+//                 we can access only by using Inheritance 
 //  			   (Outside package a class who extends the class)
 
 // the access modifiers are  accessible to the classes, Methods, Variables, and Constructors
