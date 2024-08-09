@@ -1,7 +1,7 @@
 # Java Learning
 
 - Exception Handling, Exception Hierarchy, Checked and Unchecked Exceptions, Nesting, Try-Catch-Finally, Rethrowing, Exception in Inheritance and Constructors 
-- Regular Expressions, its Characters, MetaCharacters, Quantifiers
+- Regular Expressions, its Characters, MetaCharacters, Quantifiers Pattern and Matcher classes, and its methods
 - Access modifiers => Default, Public, Private, Protected
 - Bindings => Early Binding and Late Binding
 - Abstraction, abstract methods, abstract classes, contract for child classes, Indirect Instantiation. 
