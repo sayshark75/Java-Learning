@@ -84,6 +84,7 @@ package ExceptionHandling;
 //		---------------------------------------------
 //		|				|			  |			    |
 // RuntimeException	  SQLExc	ClassNotFoundExc   etc.
+//   (Unchecked)
 //		|
 //	-------------------------
 //  |		|		|		|

@@ -36,14 +36,20 @@ public class Demo2 {
 		// alternate logic for each type exception
 		
 		}
-		catch(ArithmeticException ae) {
-			System.out.println("Inside AE");
-		}
-		catch(NullPointerException npe) {
-			System.out.println("Inside NPE");
-		}
-		catch(NumberFormatException nfe) {
-			System.out.println("Inside NFE");
+		// catch(ArithmeticException ae) {
+		//	System.out.println("Inside AE");
+		// }
+		// catch(NullPointerException npe) {
+		//	System.out.println("Inside NPE");
+		// }
+		// catch(NumberFormatException nfe) {
+		//	System.out.println("Inside NFE");
+		// }
+		
+		// we can also use | to do a multi-catch block like below
+		catch(ArithmeticException | NullPointerException | NumberFormatException e) {
+			e.getMessage();
+			e.printStackTrace();
 		}
 		
 		// Disadvantages of multiple catch blocks:

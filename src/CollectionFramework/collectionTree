@@ -1,0 +1,35 @@
+java.lang
+  |
+  +-- java.util
+        |
+        +-- Iterable (I)
+              |
+              +-- Collection (I)
+                    |
+                    +-- List (I)
+                    |    +-- AbstractList (C)
+                    |    |    +-- ArrayList (C)
+                    |    |    +-- LinkedList (C)
+                    |    |    +-- Vector (C)
+                    |    |          +-- Stack (C)
+                    |
+                    +-- Set (I)
+                    |    +-- AbstractSet (C)
+                    |    |    +-- HashSet (C)
+                    |    |    +-- LinkedHashSet (C)
+                    |    |    +-- TreeSet (C) (implements NavigableSet (I))
+                    |
+                    +-- Queue (I)
+                    |    +-- AbstractQueue (C)
+                    |    |    +-- PriorityQueue (C)
+                    |    +-- Deque (I)
+                    |         +-- ArrayDeque (C)
+                    |         +-- LinkedList (C) (implements both List (I) and Deque (I))
+                    |
+                    +-- Map (I) (not a subtype of Collection (I))
+                          +-- AbstractMap (C)
+                          |    +-- HashMap (C)
+                          |    +-- LinkedHashMap (C)
+                          |    +-- TreeMap (C) (implements NavigableMap (I))
+                          +-- Hashtable (C)
+                               +-- Properties (C)
