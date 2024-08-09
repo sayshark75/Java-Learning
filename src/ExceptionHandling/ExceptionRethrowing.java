@@ -20,7 +20,15 @@ public class ExceptionRethrowing {
 	public static void main(String[] args) {
 		System.out.println("Start of main method...");
 		
+		ExceptionRethrowing er = new ExceptionRethrowing();
 		
+		try {
+			er.fun1(100, 10);
+			// here we converted AE to UDE
+		} catch (UserDefinedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 		System.out.println("End of main method...");
 	}
