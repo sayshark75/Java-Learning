@@ -13,7 +13,7 @@ package CollectionFramework;
 // They are like a container, where we can store and manipulate group of object 
 // in a standard way.
 
-// Note: With the help of array also we can group of multiple object as a 
+// Note: With the help of array also we can create group of multiple object as a 
 // single entity(object).**
 
 // Example:
