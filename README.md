@@ -1,6 +1,7 @@
 # Java Learning
 
-- Collection Framework, Auto Boxing, Auto Unboxing, ArrayList, HashSet, LinkedHashSet, Common Methods from Collection Interfaces
+- Collection Freamework Hierarchy from Iterator to four different Datastructure (List, Set, Queue, Map)
+- Collection Framework, Auto Boxing, Auto Unboxing, ArrayList, HashSet, LinkedHashSet, Common Methods from Collection Interface
 - Exception Handling, Exception Hierarchy, Checked and Unchecked Exceptions, Nesting, Try-Catch-Finally, Rethrowing, Exception in Inheritance and Constructors 
 - Regular Expressions, its Characters, MetaCharacters, Quantifiers Pattern and Matcher classes, and its methods
 - Access modifiers => Default, Public, Private, Protected
